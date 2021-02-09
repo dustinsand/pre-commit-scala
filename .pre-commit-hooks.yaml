@@ -4,4 +4,4 @@
   description: "Runs the Scalafmt code formatter on Scala source files."
   language: coursier
   entry: scalafmt
-  files: (\.(scala|sc)$)
+  types: [file, scala]

@@ -4,6 +4,6 @@
     "central"
   ],
   "dependencies": [
-    "org.scalameta:scalafmt:2.7.5"
+    "org.scalameta:scalafmt-cli_2.13:2.7.5"
   ]
 }
