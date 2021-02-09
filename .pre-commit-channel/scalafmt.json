@@ -1,0 +1,9 @@
+{
+  "mainClass": "org.scalafmt.cli.Cli",
+  "repositories": [
+    "central"
+  ],
+  "dependencies": [
+    "org.scalameta:scalafmt:2.7.5"
+  ]
+}
